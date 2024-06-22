@@ -1,5 +1,4 @@
-## Oiiiii, tudo bem? 
-Seja bem vindo me chamo Lorrany Silva, e sou iniciante no mundo Dev.
+## Oiiiii, tudo bem? Seja bem vindo me chamo Lorrany Silva, e sou iniciante no mundo Dev.
 
 <div>
 <a href="https://github.com/DevLorranny">
