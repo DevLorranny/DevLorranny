@@ -2,7 +2,7 @@
 
 
 <br>
-<div align="center">
+<div >
 <a href="https://github.com/DevLorranny">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DevLorranny&show_icons=true&theme=radical"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLorranny&layout=compact&theme=radical"/>
@@ -31,9 +31,5 @@
 
 <br>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevLorranny/DevLorranny/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevLorranny/DevLorranny/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevLorranny/DevLorranny/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
+
+
